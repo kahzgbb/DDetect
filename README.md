@@ -11,9 +11,9 @@ Access <a href="/releases/tag/Releases">Releases Page</a> click on DDetect.exe a
 </br>
 ![](https://github.com/kahzgbb/DDetect/blob/main/step2.png?raw=true)
 </br>
-SHA-256: f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130
+SHA-256: dfa4696191cc2f3e3f845a0626389fd587179e405809b72e65d1de94ecb8f78e
 </br>
-VirusTotal Scan: https://www.virustotal.com/gui/file/f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130/details
+VirusTotal Scan: https://www.virustotal.com/gui/file/dfa4696191cc2f3e3f845a0626389fd587179e405809b72e65d1de94ecb8f78e/detection
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). 
 
