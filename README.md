@@ -6,13 +6,13 @@ The program makes a dump of the javaw process with a minimum length of 4 and a m
 
 ## How to Download?
 Access <a href="/releases/tag/Releases">Releases Page</a> click on DDetect.exe and download file.
-<br>
-![](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
-<br>
-![](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
-<br>
+</br>
+![](https://github.com/kahzgbb/Minj/blob/main/step1?raw=true)
+</br>
+![](https://github.com/kahzgbb/Minj/blob/main/step2.png?raw=true)
+</br>
 SHA-256: f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130
-<br>
+</br>
 VirusTotal Scan: https://www.virustotal.com/gui/file/f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130/details
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). 
