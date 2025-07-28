@@ -3,7 +3,7 @@ Minecraft Doomsday Detector 1.8.9 - 1.21
 
 ## How this works?
 The program makes a dump of the javaw process with a minimum length of 4 and a maximum of 30 to greatly optimize the search process, and if the Doomsday string is found in the process it prints a flag and if it is not found it prints that no trace was found.
-
+**Must be running Minecraft**
 ## How to Download?
 Access <a href="/releases/tag/Releases">Releases Page</a> click on DDetect.exe and download file.
 </br>
