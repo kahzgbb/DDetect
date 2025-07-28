@@ -10,7 +10,7 @@ Access <a href="/releases/tag/Releases">Releases Page</a> click on DDetect.exe a
 ![](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
 <br>
 SHA-256: f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130
-
+VirusTotal Scan: https://www.virustotal.com/gui/file/f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130/details
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). 
 
