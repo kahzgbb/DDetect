@@ -7,7 +7,7 @@ The program makes a dump of the javaw process with a minimum length of 4 and a m
 ## How to Download?
 Access <a href="/releases/tag/Releases">Releases Page</a> click on DDetect.exe and download file.
 </br>
-![](https://github.com/kahzgbb/DDetect/blob/main/step1?raw=true)
+![](https://github.com/kahzgbb/DDetect/blob/main/step1.png?raw=true)
 </br>
 ![](https://github.com/kahzgbb/DDetect/blob/main/step2.png?raw=true)
 </br>
