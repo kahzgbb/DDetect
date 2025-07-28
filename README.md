@@ -8,6 +8,7 @@ The program makes a dump of the javaw process with a minimum length of 4 and a m
 Access <a href="/releases/tag/Releases">Releases Page</a> click on DDetect.exe and download file.
 ![](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
 ![](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
+<br>
 SHA-256: f98735dd4b43f4c1a9625e9f788f6fe432b171670806e97be7fb802123181130
 
 ## License
